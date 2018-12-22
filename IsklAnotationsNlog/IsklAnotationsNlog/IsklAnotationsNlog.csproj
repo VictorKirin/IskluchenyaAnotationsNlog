@@ -53,7 +53,6 @@
   <ItemGroup>
     <Compile Include="Asus.cs" />
     <Compile Include="Attributs.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Collections.cs" />
     <Compile Include="Computer.cs" />
     <Compile Include="Dell.cs" />
